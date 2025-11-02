@@ -1,2 +1,2 @@
 # eco-impact-ai
-Climate Policy Simulation Platform (Flask + ML + PostgreSQL)
+Climate Policy Simulation Platform (FastAPI + Uvicorn + ML + PostgreSQL)
